@@ -1,4 +1,4 @@
-This was a part of the Capstone project at UBC in colloboration with the Centre for Population Health Data at [Statistics Canada](https://www.statcan.gc.ca/eng/start)
+Capstone project at UBC in colloboration with the Centre for Population Health Data at [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
 Our goal was to create a website/dashboard that is based on a given food and nutrition thematic data model. This data model contains five main categories: Food Supply, Distribution, Consumption, Utilization, Health Outcomes. The first step of the entire process is to categorize data products (data sets, publications, surveys) into the appropriate categories by building a text classification model. This repository contains the majority of code for data collection, text classification and plotly dashboards used in the website. 
 
