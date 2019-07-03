@@ -1,6 +1,8 @@
-Brief description of files
+This was a part of the Capstone project at UBC in colloboration with the Centre for Population Health Data at [Statistics Canada](https://www.statcan.gc.ca/eng/start)
 
-[Website Link](https://statisticcanada.github.io/)
+Our goal was to create a website/dashboard that is based on a given food and nutrition thematic data model. This data model contains five main categories: Food Supply, Distribution, Consumption, Utilization, Health Outcomes. The first step of the entire process is to categorize data products (data sets, publications, surveys) into the appropriate categories by building a text classification model. This repository contains the majority of code for data collection, text classification and plotly dashboards used in the website. 
+
+[The Website Link](https://statisticcanada.github.io/)
 
 
 Inside the dataset folder contains the [Training Data](https://github.com/statisticCanada/Project/tree/master/Datasets/Training%20Data), [New Data (To be Classified)](https://github.com/statisticCanada/Project/tree/master/Datasets/New%20Data%20(To%20be%20Classified)), as well as [Classified New Data](https://github.com/statisticCanada/Project/tree/master/Datasets/Classified%20New%20Data)
